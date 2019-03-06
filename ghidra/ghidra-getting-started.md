@@ -1,6 +1,6 @@
 # Ghidra: Nation State Level Reverse Engineering Tools
 
-Ghidra is the new tool released by the United States National Security Agency for reverse engineering software. It has been under active development for years. There is a lot to love about Ghidra: From my initial exploration the string deobfuscation, including inline context, is phenomenal.
+Ghidra is the new tool released by the United States National Security Agency for reverse engineering software. It has been under active development for years. There is a lot to love about Ghidra: From my initial exploration the string deobfuscation, including inline context, is phenomenal. It even sports an undo feature.
 
 # Notes on Other Tools
 
