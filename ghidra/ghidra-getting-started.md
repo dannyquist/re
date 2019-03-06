@@ -10,7 +10,7 @@ I cut my teeth reverse engineering malware with IDA Pro. IDA is a fantastic piec
 
 Having spent about 5 years in management, woefully divorced from any ability to do reverse engineering, a lot changed in the field. About six months ago I got an IDA license and I found some huge deal killers for me:
 
-1. IDA is way more expensive. Realistically having ~$10k~ worth of reverse engineering software is a hard sell for information security organizations.
+1. IDA is way more expensive. Realistically having ~$10k~ $13k worth of reverse engineering software is a hard sell for information security organizations.
 2. License management: In my opinion this is where IDA jumped the shark. It is now a complete pain in the ass to get IDA up and running, involving FlexLM and other crimes against humanity.
 3. The GUI is dated, and doesn't play well with high DPI monitors. I have nothing but respect for Ilfak and his crew, they have done awesome work. I have also regrettably aged, and my corneas hardening means I need glasses, bigger fonts, etc. etc.
 4. The plugin architecture is just awful. I know and love IDA Python, including all of it's nuances. It's time to move forward.
