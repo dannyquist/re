@@ -64,7 +64,7 @@ After running you'll see some very Java looking user interface design. Don't jud
 
 ### Windows / Mac
 
-You're on you're own here.
+RTFM. The documentation is quite good, and will likely involve installing the OpenJDK 11 or higher. Past that you're on you're own.
 
 # Using Ghidra
 
