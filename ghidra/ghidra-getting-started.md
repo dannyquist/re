@@ -18,7 +18,7 @@ Having spent about 5 years in management, woefully divorced from any ability to 
 Regrettably, the above limitations have prevented me from continuing my usage of IDA. What used to be a quick approval process with management for a license purchase has turned into a complex justification ordeal, writing exceptions to policy, and various other bureaucratic nonsense that comes from trying to spend that much money.
 
 ## Binary Ninja
-Before March 5, 2019 this was my primary reverse engineering tool that I had transitioned to. In addition to sane licensing costs, there is minimal license management, the GUI is based on Qt with full support for high-DPI monitors, and when I change the fonts it doesn't look bad. The dark mode makes reduces eye strain. The Python API is great, albeit limited as it uses Python2.
+Before March 5, 2019 this was my primary reverse engineering tool that I had transitioned to. In addition to sane licensing costs, there is minimal license management, the GUI is based on Qt with full support for high-DPI monitors, and when I change the fonts it doesn't look bad. The dark mode makes reduces eye strain. The Python API is great.
 
 1. Binja is $500 per year.
 2. License management is based on keys, not FlexLM
